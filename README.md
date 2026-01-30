@@ -1,5 +1,5 @@
 # Act1-UD4
-## Aquí está el código refactorizado para poder sacar media de las notas.
+## Aquí está el código refactorizado para poder sacar media de las notas en Java.
 
 public class NotasFinales {
 
