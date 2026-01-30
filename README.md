@@ -1,6 +1,6 @@
 # Act1-UD4
 
-'public class NotasFinales {
+public class NotasFinales {
 
 	/**
 	 * Programa que trabaja con un array de notas.
@@ -9,7 +9,6 @@
 	 * está aprobado o suspendido.
 	 */
     public static void main(String[] args) {
-
         int[] notas = {5, 7, 3, 7, 2, 9, 7};
         int contadorNotaMaxima = 0; // Aquí se guardará la cantidad de veces que la nota más alta se repite.
         int notaMaximaRepetida = 0; // Aquí se guardará 1 si la nota más alta se repite y 0 si no.
@@ -85,4 +84,4 @@
             System.out.println("Estás suspendido :(");
         }
     }
-}'
+`}`
