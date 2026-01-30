@@ -1,0 +1,5 @@
+Es muy breve la explicación del porqué he refactorizado todo el código.
+
+- He cambiado todos los nombres de simples letras a "palabras compuestas" para que se entienda que hacen y que almacenan.
+- He añadido comentario en todas las partes y variables del código explicando para que sirve o qué hace.
+- He cambiado el nombre de la clase para que se entienda para que puede servir esa clase Java.
