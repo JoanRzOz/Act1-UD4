@@ -1,4 +1,5 @@
 # Act1-UD4
+## Aquí está el código refactorizado para poder sacar media de las notas.
 
 public class NotasFinales {
 
